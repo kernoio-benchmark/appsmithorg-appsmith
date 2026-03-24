@@ -1,0 +1,47 @@
+2026-03-24 13:48:31.069 [INFO] - index - appsmithorg-appsmith-e63769 - Scanning files
+2026-03-24 13:48:31.074 [DEBUG] - index - appsmithorg-appsmith-e63769 - Cache miss for scanning files
+2026-03-24 13:48:39.291 [INFO] - index - Expected exactly 1 module, found 15 — skipping analysis
+2026-03-24 13:48:39.291 [CHECKMARK] - index - appsmithorg-appsmith-e63769 - Files scanned
+2026-03-24 13:48:39.292 [INFO] - index - appsmithorg-appsmith-e63769 - Found 15 module(s)
+2026-03-24 13:48:39.292 [INFO] - index - appsmithorg-appsmith-e63769 - Detected applications: appsmith-rts
+2026-03-24 13:48:39.312 [CHECKMARK] - index - appsmithorg-appsmith-e63769 - Files scanned
+2026-03-24 13:48:39.313 [INFO] - index - appsmithorg-appsmith-e63769 - Found 15 module(s)
+2026-03-24 13:48:39.313 [INFO] - index - appsmithorg-appsmith-e63769 - Detected applications: appsmith-rts
+2026-03-24 13:48:39.333 [CHECKMARK] - index - appsmithorg-appsmith-e63769 - Files scanned
+2026-03-24 13:48:39.333 [INFO] - index - appsmithorg-appsmith-e63769 - Found 15 module(s)
+2026-03-24 13:48:39.334 [INFO] - index - appsmithorg-appsmith-e63769 - Detected applications: appsmith-rts
+2026-03-24 13:48:39.355 [INFO] - index - app-client-packages-rts-ts - Indexing your project
+2026-03-24 13:48:39.355 [DEBUG] - index - app-client-packages-rts-ts - Cache miss for indexing your project
+2026-03-24 13:48:46.124 [CHECKMARK] - index - app-client-packages-rts-ts - Project indexed
+2026-03-24 13:48:46.127 [INFO] - index - app-client-packages-rts-ts - Analyzing imports
+2026-03-24 13:48:46.128 [DEBUG] - index - app-client-packages-rts-ts - Cache miss for analyzing imports
+2026-03-24 13:48:52.477 [CHECKMARK] - index - app-client-packages-rts-ts - Imports analyzed
+2026-03-24 13:48:52.505 [INFO] - index - app-client-packages-rts-ts - Analyzing security
+2026-03-24 13:48:52.506 [DEBUG] - index - app-client-packages-rts-ts - Cache miss for analyzing security
+2026-03-24 13:48:52.506 [INFO] - index - app-client-packages-rts-ts - Analyzing external services
+2026-03-24 13:48:52.507 [DEBUG] - index - app-client-packages-rts-ts - Cache miss for analyzing external services
+2026-03-24 13:48:52.523 [CHECKMARK] - index - app-client-packages-rts-ts - Security analyzed
+2026-03-24 13:48:52.544 [INFO] - index - app-client-packages-rts-ts - Analyzing build configuration
+2026-03-24 13:48:52.544 [DEBUG] - index - app-client-packages-rts-ts - Cache miss for analyzing build configuration
+2026-03-24 13:49:00.571 [CHECKMARK] - index - app-client-packages-rts-ts - External services analyzed
+2026-03-24 13:49:05.812 [CHECKMARK] - index - app-client-packages-rts-ts - Build configuration analyzed
+2026-03-24 13:49:05.814 [INFO] - composeAgent - app-client-packages-rts-ts - Generating Dockerfile
+2026-03-24 13:49:05.814 [DEBUG] - composeAgent - app-client-packages-rts-ts - Cache miss for generating dockerfile
+2026-03-24 13:51:58.050 [CHECKMARK] - composeAgent - app-client-packages-rts-ts - Dockerfile generated
+2026-03-24 13:51:58.052 [INFO] - composeAgent - app-client-packages-rts-ts - Gathering context
+2026-03-24 13:51:58.052 [DEBUG] - composeAgent - app-client-packages-rts-ts - Cache miss for gathering context
+2026-03-24 13:52:07.070 [CHECKMARK] - composeAgent - app-client-packages-rts-ts - Context gathered
+2026-03-24 13:52:07.073 [INFO] - composeAgent - app-client-packages-rts-ts - Generating docker-compose.yaml
+2026-03-24 13:52:07.073 [DEBUG] - composeAgent - app-client-packages-rts-ts - Cache miss for generating docker-compose.yaml
+2026-03-24 13:52:07.083 [CHECKMARK] - composeAgent - app-client-packages-rts-ts - docker-compose.yaml generated
+2026-03-24 13:52:07.133 [CHECKMARK] - index - app-client-packages-rts-ts - Project indexed
+2026-03-24 13:52:07.146 [CHECKMARK] - index - app-client-packages-rts-ts - Imports analyzed
+2026-03-24 13:52:07.163 [CHECKMARK] - index - app-client-packages-rts-ts - Build configuration analyzed
+2026-03-24 13:52:07.172 [CHECKMARK] - composeAgent - app-client-packages-rts-ts - Dockerfile generated
+2026-03-24 13:52:07.219 [CHECKMARK] - index - app-client-packages-rts-ts - Project indexed
+2026-03-24 13:52:07.228 [CHECKMARK] - index - app-client-packages-rts-ts - Imports analyzed
+2026-03-24 13:52:07.245 [CHECKMARK] - index - app-client-packages-rts-ts - Build configuration analyzed
+2026-03-24 13:52:07.245 [CHECKMARK] - index - app-client-packages-rts-ts - Security analyzed
+2026-03-24 13:52:07.246 [CHECKMARK] - index - app-client-packages-rts-ts - External services analyzed
+2026-03-24 13:52:07.252 [CHECKMARK] - composeAgent - app-client-packages-rts-ts - Dockerfile generated
+2026-03-24 13:52:07.262 [CHECKMARK] - composeAgent - app-client-packages-rts-ts - Context gathered
